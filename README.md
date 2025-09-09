@@ -19,3 +19,6 @@ Funcionalidades que o aplicativo oferece:
 ### 3. Acessibilidade
 - Disponível na web: Qualquer pessoa com internet pode acessar
 - Funciona direto no navegador
+
+- ### URL DO APLICATIVO
+- https://projeto-sprint5-pii4.onrender.com/
